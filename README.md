@@ -1,5 +1,7 @@
-#PARKINSONS DETECTION BY SVM,RANDOM FOREST AND LOGISTIC CLASSIFIER IN INTEL ONEAPI
+             #PARKINSONS DETECTION BY SVM,RANDOM FOREST AND LOGISTIC CLASSIFIER IN INTEL ONEAPI
+             
 ##DESCRIPTION
+
    ->A Machine Learning based approach to detect the presence of Parkinsons disease by using Oneapi in which three machine learning models-SVM,LOGISTIC CLASSIFIER AND RANDOM FOREST are primarily used. 
    ->The dataset was obtained from UCI Machine Learning Repository.The dataset contains tests of 15 people from the control group and 62 tests of people suffering from Parkinson's disease.
    ->The main motive of this project is that how parkinsons disease could be detected by using machine learning and how ONEAPI is really effective in getting the better accuracy results than that of the others.
